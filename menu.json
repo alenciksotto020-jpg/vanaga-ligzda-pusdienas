@@ -2,7 +2,7 @@
   "weekLabel": "15.06.–19.06.2026.",
   "time": "12:00–15:00",
   "prices": {
-    "soup": "8",
+    "soup": "4,00 €",
     "soupSet": "komplektā 3,50 €",
     "main": "6,50 €",
     "combo": "9,50 €"
@@ -11,7 +11,7 @@
     {
       "name": "Pirmdiena",
       "date": "15. jūnijs",
-      "soup": "bobobo",
+      "soup": "Ķirbju krēmzupa (PROVE)",
       "main": "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
     },
     {
