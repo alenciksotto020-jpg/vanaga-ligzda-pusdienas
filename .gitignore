@@ -1,0 +1,12 @@
+# scratch: scraped reference sites, logo previews
+_research/
+
+# vercel deploy staging + project linkage
+deploy/
+.vercel/
+
+# misc
+node_modules/
+*.log
+Thumbs.db
+.DS_Store
