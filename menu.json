@@ -40,5 +40,19 @@
     "heading": "Zvani un uzzini dienas piedāvājumu!",
     "text": "Piektdienas pusdienas top tepat virtuvē, piezvani mums, un mēs pastāstīsim, kas šodien gaida tavā šķīvī!",
     "phone": "+371 2244 3232"
+  },
+  "library": {
+    "soups": [
+      "Rosoļņiks ar zaļumiem",
+      "Tom Kha zupiņa ar vistiņu un rīsiem",
+      "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
+      "Dārzeņu krēmzupa ar bazilika pesto"
+    ],
+    "mains": [
+      "Vistas fileja teriyaki mērcē ar dārzeņiem, pasniegta ar rīsiem",
+      "Lazanja ar cūkgaļu un siera mērcē",
+      "Cūkgaļas krūtiņa sīpolos ar grūbu putraimiem un marinētām bietēm",
+      "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
+    ]
   }
 }
