@@ -1,5 +1,5 @@
 {
-  "weekLabel": "15.06.–19.06.2026.",
+  "weekLabel": "",
   "time": "12:00–15:00",
   "prices": {
     "soup": "4,00 €",
@@ -10,32 +10,32 @@
   "days": [
     {
       "name": "Pirmdiena",
-      "date": "15. jūnijs",
-      "soup": "Dārzeņu krēmzupa ar bazilika pesto",
+      "date": "",
+      "soup": "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
       "main": "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
     },
     {
       "name": "Otrdiena",
-      "date": "16. jūnijs",
-      "soup": "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
+      "date": "",
+      "soup": "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem",
       "main": "Cūkgaļas krūtiņa sīpolos ar grūbu putraimiem un marinētām bietēm"
     },
     {
       "name": "Trešdiena",
-      "date": "17. jūnijs",
-      "soup": "Tom Kha zupiņa ar vistiņu un rīsiem",
+      "date": "",
+      "soup": "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
       "main": "Lazanja ar cūkgaļu un siera mērcē"
     },
     {
       "name": "Ceturtdiena",
-      "date": "18. jūnijs",
+      "date": "",
       "soup": "Rosoļņiks ar zaļumiem",
       "main": "Vistas fileja teriyaki mērcē ar dārzeņiem, pasniegta ar rīsiem"
     }
   ],
   "friday": {
     "name": "Piektdiena",
-    "date": "19. jūnijs",
+    "date": "",
     "tag": "",
     "heading": "Zvani un uzzini dienas piedāvājumu!",
     "text": "Piektdienas pusdienas top tepat virtuvē, piezvani mums, un mēs pastāstīsim, kas šodien gaida tavā šķīvī!",
@@ -43,6 +43,7 @@
   },
   "library": {
     "soups": [
+      "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem",
       "Rosoļņiks ar zaļumiem",
       "Tom Kha zupiņa ar vistiņu un rīsiem",
       "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
