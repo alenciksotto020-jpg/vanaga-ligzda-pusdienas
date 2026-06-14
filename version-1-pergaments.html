@@ -88,7 +88,7 @@
   .sf h4{font-family:"Enriqueta",serif;font-size:17px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--dk-cream);margin-bottom:22px}
   .sf h4.bl{font-family:"UnifrakturCook",serif;letter-spacing:0;text-transform:none;font-size:30px;color:var(--gold);font-weight:700}
   .ig-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;max-width:228px}
-  .ig-grid a{aspect-ratio:1;background:linear-gradient(135deg,#2c2620,#211d18);border:1px solid rgba(184,143,79,.14);display:flex;align-items:center;justify-content:center;color:#6f6452;transition:.2s}
+  .ig-grid a{aspect-ratio:1;background:linear-gradient(135deg,#332c23,#221d18);border:1px solid rgba(184,143,79,.18);border-radius:6px;display:flex;align-items:center;justify-content:center;color:#8a7a5c;transition:.2s}
   .ig-grid a:hover{color:var(--gold);border-color:rgba(184,143,79,.45)}
   .sf-contact{list-style:none;display:flex;flex-direction:column;gap:15px}
   .sf-contact li{display:flex;gap:12px;align-items:flex-start;font-size:14.5px;color:#c2b69d;line-height:1.5}
@@ -121,7 +121,17 @@
     .day{grid-template-columns:1fr;gap:16px;padding:26px 0}.day.special{padding:28px 22px}
     .course{grid-template-columns:92px 1fr;gap:12px}
   }
-  @media (max-width:600px){.sf-in{grid-template-columns:1fr;gap:32px}.sf-bar-in{flex-direction:column;text-align:center;gap:12px}}
+  @media (max-width:600px){
+    .sf-in{grid-template-columns:1fr;gap:26px;text-align:center;padding:46px 24px 30px}
+    .sf-brand img{margin:0 auto}
+    .ig-grid{margin:8px auto 0;max-width:230px}
+    .sf-contact{align-items:center}
+    .sf-contact li{justify-content:center}
+    .sf-news p{margin-left:auto;margin-right:auto}
+    .sf-form{margin:0 auto}
+    .sf-actions{justify-content:center}
+    .sf-bar-in{flex-direction:column;text-align:center;gap:12px}
+  }
   @media (max-width:520px){.price{flex-basis:50%;border-bottom:1px solid var(--line)}.course .cname{font-size:19px}}
   @media (prefers-reduced-motion:reduce){.day{animation:none;opacity:1;transform:none}}
 </style>
@@ -169,7 +179,6 @@
     <div class="meta-row">
       <span class="chip"><b>Darba dienās <span id="mTime">12:00–15:00</span></b></span>
       <span class="chip">Nedēļa <b id="mWeek">15.06.–19.06.2026.</b></span>
-      <span class="chip">Austrumeiropas virtuve</span>
     </div>
     <div class="prices">
       <div class="price"><div class="pl">Zupa</div><div class="pv" id="mpSoup">4,00 €</div><div class="pn" id="mpSoupSet">komplektā 3,50 €</div></div>
