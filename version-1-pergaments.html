@@ -32,8 +32,10 @@
   .sh-lang a.on{color:var(--dk-cream)}.sh-lang a:hover{color:var(--dk-cream)}
   .sh-lang span{color:#5d5345}
   .sh-logo{justify-self:center;padding:0 10px}.sh-logo img{height:80px;width:auto;display:block}
-  .sh-btn{font-family:"Enriqueta",serif;font-size:13px;letter-spacing:.07em;text-transform:uppercase;color:var(--dk-cream);text-decoration:none;border:1px solid var(--gold-line);border-radius:6px;padding:12px 18px;transition:.25s;white-space:nowrap;flex:none}
-  .sh-btn:hover{background:var(--gold-line);color:var(--dk)}
+  .sh-btn{font-family:"Enriqueta",serif;font-size:13px;letter-spacing:.07em;text-transform:uppercase;color:#f4ecd6;text-decoration:none;background:linear-gradient(180deg,#cea75f 0%,#b78d4b 55%,#a37d40 100%);border:1px solid rgba(233,209,160,.5);border-radius:6px;padding:12px 18px;white-space:nowrap;flex:none;text-shadow:0 1px 1px rgba(80,55,20,.35);animation:shBtnGlow 2.8s ease-in-out infinite;transition:box-shadow .3s ease,transform .2s ease,filter .2s ease}
+  .sh-btn:hover{animation:none;box-shadow:0 0 30px 5px rgba(224,186,112,.82),inset 0 1px 0 rgba(255,246,226,.55);transform:translateY(-1px);filter:brightness(1.07)}
+  @keyframes shBtnGlow{0%,100%{box-shadow:0 0 15px 1px rgba(201,160,86,.42),inset 0 1px 0 rgba(255,246,226,.4)}50%{box-shadow:0 0 24px 3px rgba(216,178,106,.64),inset 0 1px 0 rgba(255,246,226,.4)}}
+  @media (prefers-reduced-motion:reduce){.sh-btn{animation:none;box-shadow:0 0 16px 1px rgba(201,160,86,.45)}}
   .sh-burger{display:none}
   .sh-mnav{display:none}
 
