@@ -1,8 +1,7 @@
 {
-  "weekLabel": "",
   "time": "12:00–15:00",
   "prices": {
-    "soup": "6 €",
+    "soup": "4,00 €",
     "soupSet": "komplektā 3,50 €",
     "main": "6,50 €",
     "combo": "9,50 €"
@@ -11,19 +10,19 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
+      "soup": "Dārzeņu krēmzupa ar bazilika pesto",
       "main": "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem",
+      "soup": "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
       "main": "Cūkgaļas krūtiņa sīpolos ar grūbu putraimiem un marinētām bietēm"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
+      "soup": "Tom Kha zupiņa ar vistiņu un rīsiem",
       "main": "Lazanja ar cūkgaļu un siera mērcē"
     },
     {
