@@ -11,8 +11,8 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Dārzeņu krēmzupa ar bazilika pesto",
-      "main": "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
+      "soup": "Vistas frikadeļu zupa ar skābo krējumu un zaļumiem",
+      "main": "Cūkgaļas karbonāde ar garšaugu sviestā ceptiem kartupeļiem, sinepju mērci un dārzeņu salātiem"
     },
     {
       "name": "Otrdiena",
@@ -53,6 +53,7 @@
       "Dārzeņu krēmzupa ar bazilika pesto"
     ],
     "mains": [
+      "Cūkgaļas karbonāde ar garšaugu sviestā ceptiem kartupeļiem, sinepju mērci un dārzeņu salātiem",
       "Cūkgaļas karbonāde ar ceptiem kartupeļiem, sīpolu mērcē un svaigu dārzeņu salātiem",
       "Burgers ar plucināto cūkgaļu, frī un mērcīti",
       "Krāsnī cepti vistu stilbiņi ar rīsiem un dārzeņu salātiem",
