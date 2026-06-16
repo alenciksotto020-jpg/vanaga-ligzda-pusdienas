@@ -17,20 +17,20 @@
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
-      "main": "Cūkgaļas krūtiņa sīpolos ar grūbu putraimiem un marinētām bietēm"
+      "soup": "Gulašzupa ar cūkgaļu un ceptiem kartupeļiem",
+      "main": "Burgers ar plucināto cūkgaļu, frī un mērcīti"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Tom Kha zupiņa ar vistiņu un rīsiem",
-      "main": "Lazanja ar cūkgaļu un siera mērcē"
+      "soup": "Zivju zupa ar dārzeņiem",
+      "main": "Krāsnī cepti vistu stilbiņi ar rīsiem un dārzeņu salātiem"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Rosoļņiks ar zaļumiem",
-      "main": "Vistas fileja teriyaki mērcē ar dārzeņiem, pasniegta ar rīsiem"
+      "soup": "Biešu zupa ar skābo krējumu un speķmaizīti",
+      "main": "Cepta plekstes fileja ar kartupeļu biezeni, saldā krējuma mērci un svaigiem dārzeņiem"
     }
   ],
   "friday": {
@@ -43,6 +43,7 @@
   },
   "library": {
     "soups": [
+      "Biešu zupa ar skābo krējumu un speķmaizīti",
       "Zivju zupa ar dārzeņiem",
       "Vistas frikadeļu zupa ar skābo krējumu un zaļumiem",
       "Gulašzupa ar cūkgaļu un ceptiem kartupeļiem",
@@ -53,6 +54,7 @@
       "Dārzeņu krēmzupa ar bazilika pesto"
     ],
     "mains": [
+      "Cepta plekstes fileja ar kartupeļu biezeni, saldā krējuma mērci un svaigiem dārzeņiem",
       "Cūkgaļas karbonāde ar garšaugu sviestā ceptiem kartupeļiem, sinepju mērci un dārzeņu salātiem",
       "Cūkgaļas karbonāde ar ceptiem kartupeļiem, sīpolu mērcē un svaigu dārzeņu salātiem",
       "Burgers ar plucināto cūkgaļu, frī un mērcīti",
