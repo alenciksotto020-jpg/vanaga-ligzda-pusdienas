@@ -13,28 +13,28 @@
       "date": "",
       "soup": "Vistas frikadeļu zupa ar skābo krējumu un zaļumiem",
       "main": "Cūkgaļas karbonāde ar garšaugu sviestā ceptiem kartupeļiem, sinepju mērci un dārzeņu salātiem",
-      "dessert": "Biezpiena plātsmaize ar ievārījumu"
+      "dessert": "Saldējums ar zemeņu mērci"
     },
     {
       "name": "Otrdiena",
       "date": "",
       "soup": "Gulašzupa ar cūkgaļu un ceptiem kartupeļiem",
       "main": "Burgers ar plucināto cūkgaļu, frī un mērcīti",
-      "dessert": "Šokolādes kūka ar putukrējumu"
+      "dessert": "Beļģu vafele ar šokolādes mērci"
     },
     {
       "name": "Trešdiena",
       "date": "",
       "soup": "Zivju zupa ar dārzeņiem",
       "main": "Krāsnī cepti vistu stilbiņi ar rīsiem un dārzeņu salātiem",
-      "dessert": "Ābolu pīrāgs ar kanēli"
+      "dessert": "Saldais kokteilis"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
       "soup": "Biešu zupa ar skābo krējumu un speķmaizīti",
       "main": "Cepta plekstes fileja ar kartupeļu biezeni, saldā krējuma mērci un svaigiem dārzeņiem",
-      "dessert": "Vaniļas panna cotta ar ogu mērci"
+      "dessert": "Šokolādes mūss"
     }
   ],
   "friday": {
@@ -68,6 +68,12 @@
       "Lazanja ar cūkgaļu un siera mērcē",
       "Cūkgaļas krūtiņa sīpolos ar grūbu putraimiem un marinētām bietēm",
       "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
+    ],
+    "desserts": [
+      "Šokolādes mūss",
+      "Saldais kokteilis",
+      "Beļģu vafele ar šokolādes mērci",
+      "Saldējums ar zemeņu mērci"
     ]
   }
 }
