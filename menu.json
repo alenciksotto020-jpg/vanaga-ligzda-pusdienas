@@ -1,36 +1,40 @@
 {
-  "weekLabel": "",
   "time": "12:00–15:00",
   "prices": {
     "soup": "2,50 €",
     "soupSet": "komplektā 2€",
     "main": "5",
-    "combo": "9.50€"
+    "combo": "9.50€",
+    "dessert": "2,50 €"
   },
   "days": [
     {
       "name": "Pirmdiena",
       "date": "",
       "soup": "Vistas frikadeļu zupa ar skābo krējumu un zaļumiem",
-      "main": "Cūkgaļas karbonāde ar garšaugu sviestā ceptiem kartupeļiem, sinepju mērci un dārzeņu salātiem"
+      "main": "Cūkgaļas karbonāde ar garšaugu sviestā ceptiem kartupeļiem, sinepju mērci un dārzeņu salātiem",
+      "dessert": "Biezpiena plātsmaize ar ievārījumu"
     },
     {
       "name": "Otrdiena",
       "date": "",
       "soup": "Gulašzupa ar cūkgaļu un ceptiem kartupeļiem",
-      "main": "Burgers ar plucināto cūkgaļu, frī un mērcīti"
+      "main": "Burgers ar plucināto cūkgaļu, frī un mērcīti",
+      "dessert": "Šokolādes kūka ar putukrējumu"
     },
     {
       "name": "Trešdiena",
       "date": "",
       "soup": "Zivju zupa ar dārzeņiem",
-      "main": "Krāsnī cepti vistu stilbiņi ar rīsiem un dārzeņu salātiem"
+      "main": "Krāsnī cepti vistu stilbiņi ar rīsiem un dārzeņu salātiem",
+      "dessert": "Ābolu pīrāgs ar kanēli"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
       "soup": "Biešu zupa ar skābo krējumu un speķmaizīti",
-      "main": "Cepta plekstes fileja ar kartupeļu biezeni, saldā krējuma mērci un svaigiem dārzeņiem"
+      "main": "Cepta plekstes fileja ar kartupeļu biezeni, saldā krējuma mērci un svaigiem dārzeņiem",
+      "dessert": "Vaniļas panna cotta ar ogu mērci"
     }
   ],
   "friday": {
