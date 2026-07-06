@@ -1,53 +1,57 @@
 {
-  "weekLabel": "",
   "time": "12:00–15:00",
   "prices": {
-    "soup": "2,50 €",
-    "soupSet": "komplektā 2€",
-    "main": "5",
-    "combo": "9.50€",
+    "soup": "3,00 €",
+    "soupSet": "komplektā 2,50 €",
+    "main": "5,70 €",
+    "mainSet": "komplektā 5,50 €",
+    "combo": "8,00 €",
     "dessert": "2,50 €"
   },
   "days": [
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Vistas frikadeļu zupa ar skābo krējumu un zaļumiem",
-      "main": "Cūkgaļas karbonāde ar garšaugu sviestā ceptiem kartupeļiem, sinepju mērci un dārzeņu salātiem",
-      "dessert": "Putukrējums ar zemeņu mērci un riekstiem"
+      "soup": "Skābu kāpostu zupa",
+      "main": "Makaroni ar bolognese mērci",
+      "dessert": "Beļģu vafele ar šokolādes mērci"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Gulašzupa ar cūkgaļu un ceptiem kartupeļiem",
-      "main": "Burgers ar plucināto cūkgaļu, frī un mērcīti",
-      "dessert": "Beļģu vafele ar šokolādes mērci"
+      "soup": "Tom Yam zupa ar dārzeņiem",
+      "main": "Cūkgaļas karbonāde ar kartupeļu biezeni un sēņu mērci",
+      "dessert": "Rabarberu ķīselis ar vaniļas krēmu"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Zivju zupa ar dārzeņiem",
-      "main": "Krāsnī cepti vistu stilbiņi ar rīsiem un dārzeņu salātiem",
-      "dessert": "Saldējuma kokteilis"
+      "soup": "Kartupeļu puravu zupa ar grauzdētu bekonu",
+      "main": "Risoto ar vistu un dārzeņiem",
+      "dessert": "Saldējums ar zemeņu mērci"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Biešu zupa ar skābo krējumu un speķmaizīti",
-      "main": "Cepta plekstes fileja ar kartupeļu biezeni, saldā krējuma mērci un svaigiem dārzeņiem",
-      "dessert": "Šokolādes mūss ar rabarberu ķīseli"
+      "soup": "Sēņu zupa ar kūpinātu krūtiņu",
+      "main": "Garšaugos cepts vistas šķiņķītis ar ceptiem kartupeļiem un zaļumu mērci",
+      "dessert": "Rupjmaizes kārtojums"
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
-    "tag": "",
-    "heading": "Zvani un uzzini dienas piedāvājumu!",
-    "text": "",
-    "phone": "+371 2244 3232"
+    "tag": "Piektdienas piedāvājums",
+    "heading": "Kartupeļu sacepums ar malto gaļu un skābo krējumu",
+    "text": "Salāti zupas vietā — lapu un dārzeņu mix ar kūpinātu vistiņu un mango mērcīti. Desertā — auzu griljāža ar putukrējumu.",
+    "phone": ""
   },
   "library": {
     "soups": [
+      "Sēņu zupa ar kūpinātu krūtiņu",
+      "Kartupeļu puravu zupa ar grauzdētu bekonu",
+      "Tom Yam zupa ar dārzeņiem",
+      "Skābu kāpostu zupa",
       "Biešu zupa ar skābo krējumu un speķmaizīti",
       "Zivju zupa ar dārzeņiem",
       "Vistas frikadeļu zupa ar skābo krējumu un zaļumiem",
@@ -59,6 +63,10 @@
       "Dārzeņu krēmzupa ar bazilika pesto"
     ],
     "mains": [
+      "Garšaugos cepts vistas šķiņķītis ar ceptiem kartupeļiem un zaļumu mērci",
+      "Risoto ar vistu un dārzeņiem",
+      "Cūkgaļas karbonāde ar kartupeļu biezeni un sēņu mērci",
+      "Makaroni ar bolognese mērci",
       "Cepta plekstes fileja ar kartupeļu biezeni, saldā krējuma mērci un svaigiem dārzeņiem",
       "Cūkgaļas karbonāde ar garšaugu sviestā ceptiem kartupeļiem, sinepju mērci un dārzeņu salātiem",
       "Cūkgaļas karbonāde ar ceptiem kartupeļiem, sīpolu mērcē un svaigu dārzeņu salātiem",
@@ -71,6 +79,8 @@
       "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
     ],
     "desserts": [
+      "Rupjmaizes kārtojums",
+      "Rabarberu ķīselis ar vaniļas krēmu",
       "Putukrējums ar zemeņu mērci un riekstiem",
       "Putukrējums ar zemeņu mērci",
       "Saldējuma kokteilis",
