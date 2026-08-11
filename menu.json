@@ -13,42 +13,45 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Salātu mix ar kūpinātu vistu un ananasu-citrusa dresingu",
-      "main": "Vistas gaļas stroganovs ar makaroniem",
-      "dessert": "Biezpiena sacepums ar ogu ķīseli"
+      "soup": "Zivju zupa",
+      "main": "Vistas giross ar dārzeņiem",
+      "dessert": "Biezpiena plācenīši"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Sezonas salāti",
-      "main": "Cūkgaļas frikadeles Sweet Chilli mērcē ar rīsiem un dārzeņiem",
-      "dessert": "Saldējuma kokteilis"
+      "soup": "Skābu kāpostu zupa",
+      "main": "Zemnieku sacepums",
+      "dessert": "Biezpiena krēms ar zemeņu mērci"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Biešu zupa",
-      "main": "Vistas giross garšaugu mērcē ar kartupeļu frī",
-      "dessert": "Kakao krēms ar rabarberu-piparmētru ķīseli"
+      "soup": "Karstie kartupeļu salāti ar ķiploku krējuma mērci",
+      "main": "Vistas gaļas stroganovs ar rīsiem",
+      "dessert": ""
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Salāti ar kvinoju un lasi mango mērcē",
-      "main": "Cūkgaļas maltās gaļas mērce ar ceptiem kartupeļiem un marinētu gurķi",
-      "dessert": "Zemeņu lauks"
+      "soup": "Burkānu krēmzupa ar grauzdiņiem un ceptām ķirbju sēklām",
+      "main": "Cūkgaļas gulašs ar kartupeļu biezeni un karamelizētiem sīpoliem",
+      "dessert": "Saldējuma bumbiņa ar upeņu mērci"
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "„Zemnieku” sautējums",
-    "text": "Zupā — aukstā zupa. Desertā — plānās pankūkas ar šokolādes mērci un āboliem.",
+    "heading": "Pasta Bolonēze",
+    "text": "Zupā — frikadeļu zupa. Desertā — ābolu šarlote.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Burkānu krēmzupa ar grauzdiņiem un ceptām ķirbju sēklām",
+      "Karstie kartupeļu salāti ar ķiploku krējuma mērci",
+      "Zivju zupa",
       "Aukstā zupa",
       "Salāti ar kvinoju un lasi mango mērcē",
       "Biešu zupa",
@@ -82,6 +85,11 @@
       "Dārzeņu krēmzupa ar bazilika pesto"
     ],
     "mains": [
+      "Pasta Bolonēze",
+      "Cūkgaļas gulašs ar kartupeļu biezeni un karamelizētiem sīpoliem",
+      "Vistas gaļas stroganovs ar rīsiem",
+      "Zemnieku sacepums",
+      "Vistas giross ar dārzeņiem",
       "Vistas giross garšaugu mērcē ar kartupeļu frī",
       "„Zemnieku” sautējums",
       "Cūkgaļas maltās gaļas mērce ar ceptiem kartupeļiem un marinētu gurķi",
@@ -118,6 +126,10 @@
       "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
     ],
     "desserts": [
+      "Ābolu šarlote",
+      "Saldējuma bumbiņa ar upeņu mērci",
+      "Biezpiena krēms ar zemeņu mērci",
+      "Biezpiena plācenīši",
       "Plānās pankūkas ar šokolādes mērci un āboliem",
       "Zemeņu lauks",
       "Kakao krēms ar rabarberu-piparmētru ķīseli",
