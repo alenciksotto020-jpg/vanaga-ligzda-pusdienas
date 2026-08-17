@@ -13,42 +13,47 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Zivju zupa",
-      "main": "Vistas giross ar dārzeņiem",
-      "dessert": "Biezpiena plācenīši"
+      "soup": "Vistas buljonzupa",
+      "main": "Vistas maltās gaļas mērce ar rīsiem un burkāniem",
+      "dessert": "Biezpiena pončiki ar šokolādes mērci"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Skābu kāpostu zupa",
-      "main": "Zemnieku sacepums",
-      "dessert": "Biezpiena krēms ar zemeņu mērci"
+      "soup": "Veģetārā Tom yum zupa",
+      "main": "Cūkgaļas karbonāde ar vārītiem kartupeļiem zemnieku gaumē",
+      "dessert": "Biezpiena plācenīši ar krējuma mērci"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Karstie kartupeļu salāti ar ķiploku krējuma mērci",
-      "main": "Vistas gaļas stroganovs ar rīsiem",
-      "dessert": ""
+      "soup": "Biešu zupa ar speķmaizīti",
+      "main": "Cūkgaļas kotletes ar šampinjonu mērci un griķiem",
+      "dessert": "Plūmju saldējuma kokteilis"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Burkānu krēmzupa ar grauzdiņiem un ceptām ķirbju sēklām",
-      "main": "Cūkgaļas gulašs ar kartupeļu biezeni un karamelizētiem sīpoliem",
-      "dessert": "Saldējuma bumbiņa ar upeņu mērci"
+      "soup": "Salāti ar mājas dārzeņiem un bulguru",
+      "main": "Vistas spārniņi saldā čili glazūrā un rīsi ar dārzeņiem",
+      "dessert": "Augļi ar jogurtu"
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Pasta Bolonēze",
-    "text": "Zupā — frikadeļu zupa. Desertā — ābolu šarlote.",
+    "heading": "Burgers ar plūcināto gaļu un pašmāju frī kartupeļiem",
+    "text": "Salātos — grieķu salāti. Desertā — Beļģu vafele ar šokolādes mērci.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Grieķu salāti",
+      "Salāti ar mājas dārzeņiem un bulguru",
+      "Biešu zupa ar speķmaizīti",
+      "Veģetārā Tom yum zupa",
+      "Vistas buljonzupa",
       "Burkānu krēmzupa ar grauzdiņiem un ceptām ķirbju sēklām",
       "Karstie kartupeļu salāti ar ķiploku krējuma mērci",
       "Zivju zupa",
@@ -85,6 +90,11 @@
       "Dārzeņu krēmzupa ar bazilika pesto"
     ],
     "mains": [
+      "Burgers ar plūcināto gaļu un pašmāju frī kartupeļiem",
+      "Vistas spārniņi saldā čili glazūrā un rīsi ar dārzeņiem",
+      "Cūkgaļas kotletes ar šampinjonu mērci un griķiem",
+      "Cūkgaļas karbonāde ar vārītiem kartupeļiem zemnieku gaumē",
+      "Vistas maltās gaļas mērce ar rīsiem un burkāniem",
       "Pasta Bolonēze",
       "Cūkgaļas gulašs ar kartupeļu biezeni un karamelizētiem sīpoliem",
       "Vistas gaļas stroganovs ar rīsiem",
@@ -126,6 +136,10 @@
       "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
     ],
     "desserts": [
+      "Augļi ar jogurtu",
+      "Plūmju saldējuma kokteilis",
+      "Biezpiena plācenīši ar krējuma mērci",
+      "Biezpiena pončiki ar šokolādes mērci",
       "Ābolu šarlote",
       "Saldējuma bumbiņa ar upeņu mērci",
       "Biezpiena krēms ar zemeņu mērci",
