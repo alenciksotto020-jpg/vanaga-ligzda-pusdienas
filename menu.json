@@ -1,50 +1,50 @@
 {
   "weekLabel": "",
-  "time": "12:00–15:00",
+  "time": "12:00-15:00",
   "prices": {
-    "soup": "3,00 €",
-    "soupSet": "komplektā 2,50 €",
-    "main": "5,70 €",
-    "combo": "8,00 €",
-    "dessert": "2,50 €"
+    "soup": "",
+    "soupSet": "",
+    "main": "",
+    "combo": "",
+    "dessert": ""
   },
   "days": [
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Vistas buljonzupa",
-      "main": "Vistas maltās gaļas mērce ar rīsiem un burkāniem",
-      "dessert": "Biezpiena pončiki ar šokolādes mērci"
+      "soup": "",
+      "main": "",
+      "dessert": ""
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Veģetārā Tom yum zupa",
-      "main": "Cūkgaļas karbonāde ar vārītiem kartupeļiem zemnieku gaumē",
-      "dessert": "Biezpiena plācenīši ar krējuma mērci"
+      "soup": "",
+      "main": "",
+      "dessert": ""
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Biešu zupa ar speķmaizīti",
-      "main": "Cūkgaļas kotletes ar šampinjonu mērci un griķiem",
-      "dessert": "Plūmju saldējuma kokteilis"
+      "soup": "",
+      "main": "",
+      "dessert": ""
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Salāti ar mājas dārzeņiem un bulguru",
-      "main": "Vistas spārniņi saldā čili glazūrā un rīsi ar dārzeņiem",
-      "dessert": "Augļi ar jogurtu"
+      "soup": "",
+      "main": "",
+      "dessert": ""
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
     "tag": "",
-    "heading": "Burgers ar plūcināto gaļu un pašmāju frī kartupeļiem",
-    "text": "Salātos — grieķu salāti. Desertā — Beļģu vafele ar šokolādes mērci.",
-    "phone": ""
+    "heading": "",
+    "text": "",
+    "phone": "+371 2244 3232"
   },
   "library": {
     "soups": [
