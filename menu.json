@@ -1,50 +1,51 @@
 {
-  "weekLabel": "",
-  "time": "12:00-15:00",
+  "time": "12:00–15:00",
   "prices": {
-    "soup": "",
-    "soupSet": "",
-    "main": "",
-    "combo": "",
-    "dessert": ""
+    "soup": "3,00 €",
+    "soupSet": "komplektā 2,50 €",
+    "main": "5,70 €",
+    "mainSet": "komplektā 5,50 €",
+    "combo": "8,00 €",
+    "dessert": "2,50 €",
+    "combo2": "10,50 €"
   },
   "days": [
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "",
-      "main": "",
-      "dessert": ""
+      "soup": "Pupiņu zupa ar vistu",
+      "main": "Cūkgaļas cepetis ar mērci, bulguru un dārzeņiem",
+      "dessert": "Plānās pankūkas ar putukrējumu un zemeņu mērci"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "",
-      "main": "",
-      "dessert": ""
+      "soup": "Skābeņu zupa",
+      "main": "Vistas šķiņķis ar ceptiem kartupeļiem zemnieku gaumē",
+      "dessert": "Rupjmaizes kārtojums"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "",
-      "main": "",
-      "dessert": ""
+      "soup": "Skābu kāpostu zupa",
+      "main": "Maltās gaļas sacepums",
+      "dessert": "Ābolu šarlote"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "",
-      "main": "",
-      "dessert": ""
+      "soup": "Turku zirņu zupa",
+      "main": "Vista karija mērcē ar rīsiem",
+      "dessert": "Biezpiena krēms ar zemeņu mērci"
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
-    "tag": "",
-    "heading": "",
-    "text": "",
-    "phone": "+371 2244 3232"
+    "tag": "Piektdienas piedāvājums",
+    "heading": "Plovs",
+    "text": "Zupā — sēņu zupa ar cūkgaļu. Desertā — Beļģu vafeles ar šokolādes mērci.",
+    "phone": ""
   },
   "library": {
     "soups": [
@@ -86,7 +87,11 @@
       "Rosoļņiks ar zaļumiem",
       "Tom Kha zupiņa ar vistiņu un rīsiem",
       "Skābeņu zupa ar kūpinātu krūtiņu, olu un skābo krējumu",
-      "Dārzeņu krēmzupa ar bazilika pesto"
+      "Dārzeņu krēmzupa ar bazilika pesto",
+      "Pupiņu zupa ar vistu",
+      "Skābeņu zupa",
+      "Turku zirņu zupa",
+      "Sēņu zupa ar cūkgaļu"
     ],
     "mains": [
       "Burgers ar plūcināto gaļu un pašmāju frī kartupeļiem",
@@ -132,7 +137,12 @@
       "Vistas fileja teriyaki mērcē ar dārzeņiem, pasniegta ar rīsiem",
       "Lazanja ar cūkgaļu un siera mērcē",
       "Cūkgaļas krūtiņa sīpolos ar grūbu putraimiem un marinētām bietēm",
-      "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem"
+      "Cepta vistas gaļas karbonāde ar kartupeļu sacepumu, šampinjonu mērcē un tomātiem",
+      "Cūkgaļas cepetis ar mērci, bulguru un dārzeņiem",
+      "Vistas šķiņķis ar ceptiem kartupeļiem zemnieku gaumē",
+      "Maltās gaļas sacepums",
+      "Vista karija mērcē ar rīsiem",
+      "Plovs"
     ],
     "desserts": [
       "Augļi ar jogurtu",
@@ -163,7 +173,9 @@
       "Šokolādes mūss",
       "Saldais kokteilis",
       "Beļģu vafele ar šokolādes mērci",
-      "Saldējums ar zemeņu mērci"
+      "Saldējums ar zemeņu mērci",
+      "Plānās pankūkas ar putukrējumu un zemeņu mērci",
+      "Beļģu vafeles ar šokolādes mērci"
     ]
   }
 }
