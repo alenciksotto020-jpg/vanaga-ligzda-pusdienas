@@ -1,13 +1,12 @@
 {
+  "weekLabel": "",
   "time": "12:00–15:00",
   "prices": {
     "soup": "3,00 €",
     "soupSet": "komplektā 2,50 €",
     "main": "5,70 €",
-    "mainSet": "komplektā 5,50 €",
     "combo": "8,00 €",
-    "dessert": "2,50 €",
-    "combo2": "10,50 €"
+    "dessert": "2,50 €"
   },
   "days": [
     {
@@ -42,7 +41,7 @@
   "friday": {
     "name": "Piektdiena",
     "date": "",
-    "tag": "Piektdienas piedāvājums",
+    "tag": "",
     "heading": "Burgers ar plūcināto gaļu un pašmāju frī kartupeļiem",
     "text": "Salātos — grieķu salāti. Desertā — Beļģu vafele ar šokolādes mērci.",
     "phone": ""
