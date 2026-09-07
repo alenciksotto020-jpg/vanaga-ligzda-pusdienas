@@ -13,29 +13,29 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Veģetārā Tom yum zupa",
-      "main": "Vistas gaļas gabaliņi sojas-medus glazūrā ar rīsiem un dārzeņiem",
-      "dessert": "Cepts ābols ar saldējumu"
+      "soup": "Dārzeņu krēmzupa ar pesto un grauzdiņiem",
+      "main": "Cūkgaļas kotletes ar vārītiem kartupeļiem",
+      "dessert": "Burkānu plātsmaize"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "",
-      "main": "",
-      "dessert": ""
+      "soup": "Vistas buljonzupa ar dārzeņiem",
+      "main": "Cūkgaļas sautējums",
+      "dessert": "Beļģu vafeles ar zemeņu mērci"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Svaigu kāpostu zupa",
-      "main": "Pasta Bolonēze",
-      "dessert": "Plānās pankūkas ar ābolu mērci"
+      "soup": "Veģetārā Tom yum zupa",
+      "main": "Vistas frikasē ar dārzeņiem",
+      "dessert": "Ogu ķīselis ar citrusa putukrējumu"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Borščs ar ķiplokmaizi",
-      "main": "Vistas šķiņķis BBQ marinādē un pašmāju kartupeļu frī",
+      "soup": "Skābeņu zupa",
+      "main": "Vistas gaļas stroganovs ar kartupeļu biezeni",
       "dessert": "Zemeņu lauks"
     }
   ],
@@ -43,8 +43,8 @@
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Cūkgaļas cepetis ar ābolu-sinepju mērci un bulguru",
-    "text": "Zupā — vistas buljonzupa ar dārzeņiem. Desertā — Ābolu ķīselis ar putukrējumu un auzu griljāžu.",
+    "heading": "Chilli con carne ar rīsiem",
+    "text": "Zupā — Turku zirņu zupa. Desertā — Bumbieru-karameļu kūka.",
     "phone": ""
   },
   "library": {
@@ -94,7 +94,8 @@
       "Sēņu zupa ar cūkgaļu",
       "Svaigu kāpostu zupa",
       "Borščs ar ķiplokmaizi",
-      "Vistas buljonzupa ar dārzeņiem"
+      "Vistas buljonzupa ar dārzeņiem",
+      "Dārzeņu krēmzupa ar pesto un grauzdiņiem"
     ],
     "mains": [
       "Burgers ar plūcināto gaļu un pašmāju frī kartupeļiem",
@@ -148,7 +149,12 @@
       "Plovs",
       "Vistas gaļas gabaliņi sojas-medus glazūrā ar rīsiem un dārzeņiem",
       "Vistas šķiņķis BBQ marinādē un pašmāju kartupeļu frī",
-      "Cūkgaļas cepetis ar ābolu-sinepju mērci un bulguru"
+      "Cūkgaļas cepetis ar ābolu-sinepju mērci un bulguru",
+      "Cūkgaļas kotletes ar vārītiem kartupeļiem",
+      "Cūkgaļas sautējums",
+      "Vistas frikasē ar dārzeņiem",
+      "Vistas gaļas stroganovs ar kartupeļu biezeni",
+      "Chilli con carne ar rīsiem"
     ],
     "desserts": [
       "Augļi ar jogurtu",
@@ -184,7 +190,11 @@
       "Beļģu vafeles ar šokolādes mērci",
       "Cepts ābols ar saldējumu",
       "Plānās pankūkas ar ābolu mērci",
-      "Ābolu ķīselis ar putukrējumu un auzu griljāžu"
+      "Ābolu ķīselis ar putukrējumu un auzu griljāžu",
+      "Burkānu plātsmaize",
+      "Beļģu vafeles ar zemeņu mērci",
+      "Ogu ķīselis ar citrusa putukrējumu",
+      "Bumbieru-karameļu kūka"
     ]
   }
 }
