@@ -13,38 +13,38 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Dārzeņu krēmzupa ar pesto un grauzdiņiem",
-      "main": "Cūkgaļas kotletes ar vārītiem kartupeļiem",
-      "dessert": "Burkānu plātsmaize"
+      "soup": "Soļanka",
+      "main": "Cūkgaļas kotletes ar griķiem un sezonas beku mērci",
+      "dessert": "Plānās pankūkas ar putukrējumu un karameļu mērci"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Vistas buljonzupa ar dārzeņiem",
-      "main": "Cūkgaļas sautējums",
-      "dessert": "Beļģu vafeles ar zemeņu mērci"
+      "soup": "Svaigu kāpostu zupa",
+      "main": "Cūkgaļas gulašs ar vārītiem kartupeļiem",
+      "dessert": "Burkānu kūka"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Veģetārā Tom yum zupa",
-      "main": "Vistas frikasē ar dārzeņiem",
-      "dessert": "Ogu ķīselis ar citrusa putukrējumu"
+      "soup": "Skābu kāpostu zupa",
+      "main": "Vista saldkrējuma mērcē ar rīsiem un dārzeņiem",
+      "dessert": "Zemeņu lauks"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Skābeņu zupa",
-      "main": "Vistas gaļas stroganovs ar kartupeļu biezeni",
-      "dessert": "Zemeņu lauks"
+      "soup": "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem",
+      "main": "Cūkgaļas cepetis ar bulguru un garšaugu sviestā ceptiem dārzeņiem",
+      "dessert": "Putukrējums ar augļiem un burkānu biskvītu"
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Chilli con carne ar rīsiem",
-    "text": "Zupā — Turku zirņu zupa. Desertā — Bumbieru-karameļu kūka.",
+    "heading": "Vistas karbonāde ar kartupeļiem zemnieku gaumē",
+    "text": "Zupā — Frikadeļu zupa. Desertā — Bumbieru-karameļu torte.",
     "phone": ""
   },
   "library": {
@@ -95,7 +95,8 @@
       "Svaigu kāpostu zupa",
       "Borščs ar ķiplokmaizi",
       "Vistas buljonzupa ar dārzeņiem",
-      "Dārzeņu krēmzupa ar pesto un grauzdiņiem"
+      "Dārzeņu krēmzupa ar pesto un grauzdiņiem",
+      "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
       "Burgers ar plūcināto gaļu un pašmāju frī kartupeļiem",
@@ -154,7 +155,11 @@
       "Cūkgaļas sautējums",
       "Vistas frikasē ar dārzeņiem",
       "Vistas gaļas stroganovs ar kartupeļu biezeni",
-      "Chilli con carne ar rīsiem"
+      "Chilli con carne ar rīsiem",
+      "Cūkgaļas kotletes ar griķiem un sezonas beku mērci",
+      "Vista saldkrējuma mērcē ar rīsiem un dārzeņiem",
+      "Cūkgaļas cepetis ar bulguru un garšaugu sviestā ceptiem dārzeņiem",
+      "Vistas karbonāde ar kartupeļiem zemnieku gaumē"
     ],
     "desserts": [
       "Augļi ar jogurtu",
@@ -194,7 +199,11 @@
       "Burkānu plātsmaize",
       "Beļģu vafeles ar zemeņu mērci",
       "Ogu ķīselis ar citrusa putukrējumu",
-      "Bumbieru-karameļu kūka"
+      "Bumbieru-karameļu kūka",
+      "Plānās pankūkas ar putukrējumu un karameļu mērci",
+      "Burkānu kūka",
+      "Putukrējums ar augļiem un burkānu biskvītu",
+      "Bumbieru-karameļu torte"
     ]
   }
 }
