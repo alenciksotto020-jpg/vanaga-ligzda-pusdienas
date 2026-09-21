@@ -13,42 +13,43 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Soļanka",
-      "main": "Cūkgaļas kotletes ar griķiem un sezonas beku mērci",
-      "dessert": "Plānās pankūkas ar putukrējumu un karameļu mērci"
+      "soup": "Dārzeņu krēmzupa ar plucinātu vistu un ķirbju sēklām",
+      "main": "Pasta penne ar sēņu-bekona mērci",
+      "dessert": "Zemeņu lauks"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Svaigu kāpostu zupa",
-      "main": "Cūkgaļas gulašs ar vārītiem kartupeļiem",
-      "dessert": "Burkānu kūka"
+      "soup": "Frikadeļu zupa",
+      "main": "C/G karbonāde ar vārītiem kartupeļiem un sīpolu mērci",
+      "dessert": "Rupjmaizes kārtojums"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Skābu kāpostu zupa",
-      "main": "Vista saldkrējuma mērcē ar rīsiem un dārzeņiem",
-      "dessert": "Zemeņu lauks"
+      "soup": "Veģetārā Tom Yum zupa",
+      "main": "Vistas giross ar BBQ mērci un pašmāju frī",
+      "dessert": "Bumbieru-karameļu kūka"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Sēņu zupa",
-      "main": "Cūkgaļas cepetis ar bulguru un garšaugu sviestā ceptiem dārzeņiem",
-      "dessert": "Putukrējums ar augļiem un burkānu biskvītu"
+      "soup": "Skābu kāpostu zupa",
+      "main": "Slinkie kāpostu tīteņi ar tomātu-skābā krējuma mērci un bulgurs ar dārzeņiem",
+      "dessert": "Burkānu kūka"
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Vistas karbonāde ar kartupeļiem zemnieku gaumē",
-    "text": "Zupā — Frikadeļu zupa. Desertā — Bumbieru-karameļu torte.",
+    "heading": "Kraukšķīgais cālis ar sojas-ķiploku mērci un rīsiem ar olu un lociņiem",
+    "text": "Zupā: Soļanka. Desertā: Bezē cepumi ar citrona mērci.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Dārzeņu krēmzupa ar plucinātu vistu un ķirbju sēklām",
       "Grieķu salāti",
       "Salāti ar mājas dārzeņiem un bulguru",
       "Biešu zupa ar speķmaizīti",
@@ -99,6 +100,10 @@
       "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
+      "Slinkie kāpostu tīteņi ar tomātu-skābā krējuma mērci un bulgurs ar dārzeņiem",
+      "Vistas giross ar BBQ mērci un pašmāju frī",
+      "C/G karbonāde ar vārītiem kartupeļiem un sīpolu mērci",
+      "Pasta penne ar sēņu-bekona mērci",
       "Burgers ar plūcināto gaļu un pašmāju frī kartupeļiem",
       "Vistas spārniņi saldā čili glazūrā un rīsi ar dārzeņiem",
       "Cūkgaļas kotletes ar šampinjonu mērci un griķiem",
