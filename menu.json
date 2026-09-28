@@ -21,7 +21,7 @@
       "name": "Otrdiena",
       "date": "",
       "soup": "Vistas buljonzupa ar dārzeņiem",
-      "main": "C/G karbonāde ar šampinjonu mērci un griķiem",
+      "main": "Cūkgaļas karbonāde ar šampinjonu mērci un griķiem",
       "dessert": "Putukrējums ar augļiem"
     },
     {
@@ -35,7 +35,7 @@
       "name": "Ceturtdiena",
       "date": "",
       "soup": "Svaigu kāpostu zupa",
-      "main": "C/G maltās gaļas mērce ar kartupeļu biezeni",
+      "main": "Cūkgaļas maltās gaļas mērce ar kartupeļu biezeni",
       "dessert": "Maizes zupa ar putukrējumu"
     }
   ],
@@ -43,7 +43,7 @@
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "C/G cepetis ar sīpolu mērci, bulguru un dārzeņiem",
+    "heading": "Cūkgaļas cepetis ar sīpolu mērci, bulguru un dārzeņiem",
     "text": "Zupā: Harčo zupa. Desertā: Burkānu kūka.",
     "phone": ""
   },
@@ -101,6 +101,8 @@
       "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
+      "Cūkgaļas maltās gaļas mērce ar kartupeļu biezeni",
+      "Cūkgaļas karbonāde ar šampinjonu mērci un griķiem",
       "C/G maltās gaļas mērce ar kartupeļu biezeni",
       "Vistu šķiņķis ar saldkrējuma mērci un vārīti-ceptiem kartupeļiem zemnieku stilā",
       "C/G karbonāde ar šampinjonu mērci un griķiem",
