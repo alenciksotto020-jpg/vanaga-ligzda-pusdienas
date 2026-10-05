@@ -13,42 +13,45 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Biešu zupa",
-      "main": "Vistas gaļas stroganofs ar vārītiem kartupeļiem",
-      "dessert": "Zemeņu lauks"
+      "soup": "Skābeņu zupa ar olu",
+      "main": "Gaļas bumbas tomātu mērcē ar rīsiem",
+      "dessert": "Drumstalu kūka"
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Vistas buljonzupa ar dārzeņiem",
-      "main": "Cūkgaļas karbonāde ar šampinjonu mērci un griķiem",
-      "dessert": "Putukrējums ar augļiem"
+      "soup": "Boršcs ar ķiploku grauzdiņu",
+      "main": "Cūkgaļas sautējums",
+      "dessert": "Bumbieru-karameļu kūka"
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Dārzeņu krēmzupa ar grauzdiņiem",
-      "main": "Vistu šķiņķis ar saldkrējuma mērci un vārīti-ceptiem kartupeļiem zemnieku stilā",
-      "dessert": "Ābolu-upeņu strūdele"
+      "soup": "Turku zirņu zupa",
+      "main": "Vistas karbonāde ar vārītiem kartupeļiem un saldkrējuma mērci",
+      "dessert": "Kanēļa smalkmaizītes"
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Svaigu kāpostu zupa",
-      "main": "Cūkgaļas maltās gaļas mērce ar kartupeļu biezeni",
-      "dessert": "Maizes zupa ar putukrējumu"
+      "soup": "Vistas buljona zupa ar dārzeņiem",
+      "main": "Pasta penne ar bekona-sīpolu mērci",
+      "dessert": "Zemeņu lauks"
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Cūkgaļas cepetis ar sīpolu mērci, bulguru un dārzeņiem",
-    "text": "Zupā: Harčo zupa. Desertā: Burkānu kūka.",
+    "heading": "Vistas giross BBQ mērcē ar pašmāju frī",
+    "text": "Zupā: Frikadeļu zupa. Desertā: Beļģu vafeles ar šokolādes mērci.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Vistas buljona zupa ar dārzeņiem",
+      "Boršcs ar ķiploku grauzdiņu",
+      "Skābeņu zupa ar olu",
       "Dārzeņu krēmzupa ar grauzdiņiem",
       "Dārzeņu krēmzupa ar plucinātu vistu un ķirbju sēklām",
       "Grieķu salāti",
@@ -101,6 +104,9 @@
       "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
+      "Pasta penne ar bekona-sīpolu mērci",
+      "Vistas karbonāde ar vārītiem kartupeļiem un saldkrējuma mērci",
+      "Gaļas bumbas tomātu mērcē ar rīsiem",
       "Cūkgaļas karbonāde ar vārītiem kartupeļiem un sīpolu mērci",
       "Cūkgaļas maltās gaļas mērce ar kartupeļu biezeni",
       "Cūkgaļas karbonāde ar šampinjonu mērci un griķiem",
@@ -172,6 +178,8 @@
       "Vistas karbonāde ar kartupeļiem zemnieku gaumē"
     ],
     "desserts": [
+      "Kanēļa smalkmaizītes",
+      "Drumstalu kūka",
       "Maizes zupa ar putukrējumu",
       "Ābolu-upeņu strūdele",
       "Putukrējums ar augļiem",
