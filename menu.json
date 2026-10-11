@@ -13,42 +13,46 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Skābeņu zupa ar olu",
-      "main": "Gaļas bumbas tomātu mērcē ar rīsiem",
-      "dessert": "Drumstalu kūka"
+      "soup": "Tomātu krēmzupa ar zaļumu pesto un grauzdētu cūkgaļas pavēderi",
+      "main": "Vistas frikasē ar dārzeņu rīsiem",
+      "dessert": ""
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Boršcs ar ķiploku grauzdiņu",
-      "main": "Cūkgaļas sautējums",
-      "dessert": "Bumbieru-karameļu kūka"
+      "soup": "Sarkano pupiņu zupa ar zaļumu krējumu un ķiploku grauzdiņu",
+      "main": "Cepti kartupeļi ar vistas girosu un dārzeņiem",
+      "dessert": ""
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Turku zirņu zupa",
-      "main": "Vistas karbonāde ar vārītiem kartupeļiem un saldkrējuma mērci",
-      "dessert": "Kanēļa smalkmaizītes"
+      "soup": "Soļanka",
+      "main": "Gnocchi ar liellopa vaigu ragū un zaļumiem",
+      "dessert": ""
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Vistas buljona zupa ar dārzeņiem",
-      "main": "Pasta penne ar bekona-sīpolu mērci",
-      "dessert": "Zemeņu lauks"
+      "soup": "Harčo zupa",
+      "main": "Pasta bolognese ar spageti",
+      "dessert": ""
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Vistas giross BBQ mērcē ar pašmāju frī",
-    "text": "Zupā: Frikadeļu zupa. Desertā: Beļģu vafeles ar šokolādes mērci.",
+    "heading": "Bulgurs ar dārzeņiem un lēni gatavotu cūkgaļu",
+    "text": "Zupā: Vistas buljonzupa ar dārzeņiem.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Harčo zupa",
+      "Soļanka",
+      "Sarkano pupiņu zupa ar zaļumu krējumu un ķiploku grauzdiņu",
+      "Tomātu krēmzupa ar zaļumu pesto un grauzdētu cūkgaļas pavēderi",
       "Vistas buljona zupa ar dārzeņiem",
       "Boršcs ar ķiploku grauzdiņu",
       "Skābeņu zupa ar olu",
@@ -104,6 +108,10 @@
       "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
+      "Pasta bolognese ar spageti",
+      "Gnocchi ar liellopa vaigu ragū un zaļumiem",
+      "Cepti kartupeļi ar vistas girosu un dārzeņiem",
+      "Vistas frikasē ar dārzeņu rīsiem",
       "Pasta penne ar bekona-sīpolu mērci",
       "Vistas karbonāde ar vārītiem kartupeļiem un saldkrējuma mērci",
       "Gaļas bumbas tomātu mērcē ar rīsiem",
