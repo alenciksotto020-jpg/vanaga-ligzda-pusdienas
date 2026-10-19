@@ -13,29 +13,29 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Tomātu krēmzupa ar zaļumu pesto un grauzdētu cūkgaļas pavēderi",
-      "main": "Vistas frikasē ar dārzeņu rīsiem",
+      "soup": "Biešu zupa ar ķiploku grauzdiņu",
+      "main": "Ratatouille (dārzeņu sacepums) ar cūkgaļas pavēderi",
       "dessert": ""
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Sarkano pupiņu zupa ar zaļumu krējumu un ķiploku grauzdiņu",
-      "main": "Cepti kartupeļi ar vistas girosu un dārzeņiem",
+      "soup": "Spinātu-zaļo pākšu krēmzupa ar mango dressingu",
+      "main": "Kraukšķīgā vista saldskābā mērcē ar rīsiem un olu, un kāpostu salātiem",
       "dessert": ""
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Soļanka",
-      "main": "Gnocchi ar liellopa vaigu ragū un zaļumiem",
+      "soup": "Karstie kartupeļu salāti",
+      "main": "Cūkgaļas sautējums ar dārzeņiem",
       "dessert": ""
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Harčo zupa",
-      "main": "Pasta bolognese ar spageti",
+      "soup": "Frikadeļu zupa",
+      "main": "Kūpināta bekona mērce ar griķiem un marinētu gurķi vai pašmāju frī ar čedaras mērci un bekonu",
       "dessert": ""
     }
   ],
@@ -43,12 +43,15 @@
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Bulgurs ar dārzeņiem un lēni gatavotu cūkgaļu",
-    "text": "Zupā: Vistas buljonzupa ar dārzeņiem.",
+    "heading": "Cūkgaļas gulašs ar vārītiem kartupeļiem un burkānu salātiem",
+    "text": "Zupā: Soļanka.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Karstie kartupeļu salāti",
+      "Spinātu-zaļo pākšu krēmzupa ar mango dressingu",
+      "Biešu zupa ar ķiploku grauzdiņu",
       "Harčo zupa",
       "Soļanka",
       "Sarkano pupiņu zupa ar zaļumu krējumu un ķiploku grauzdiņu",
@@ -108,6 +111,10 @@
       "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
+      "Kūpināta bekona mērce ar griķiem un marinētu gurķi vai pašmāju frī ar čedaras mērci un bekonu",
+      "Cūkgaļas sautējums ar dārzeņiem",
+      "Kraukšķīgā vista saldskābā mērcē ar rīsiem un olu, un kāpostu salātiem",
+      "Ratatouille (dārzeņu sacepums) ar cūkgaļas pavēderi",
       "Pasta bolognese ar spageti",
       "Gnocchi ar liellopa vaigu ragū un zaļumiem",
       "Cepti kartupeļi ar vistas girosu un dārzeņiem",
