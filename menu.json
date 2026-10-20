@@ -6,7 +6,9 @@
     "soupSet": "komplektā 2,50 €",
     "main": "5,70 €",
     "combo": "8,00 €",
-    "dessert": "2,50 €"
+    "dessert": "2,50 €",
+    "mainSet": "komplektā 5,50 €",
+    "combo2": "10,50 €"
   },
   "days": [
     {
@@ -41,7 +43,7 @@
   "friday": {
     "name": "Piektdiena",
     "date": "",
-    "tag": "",
+    "tag": "Piektdienas piedāvājums",
     "heading": "Cūkgaļas gulašs ar vārītiem kartupeļiem un burkānu salātiem",
     "text": "Zupā: Soļanka.",
     "phone": ""
