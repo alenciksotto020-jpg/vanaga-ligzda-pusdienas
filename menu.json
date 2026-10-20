@@ -6,9 +6,7 @@
     "soupSet": "komplektā 2,50 €",
     "main": "5,70 €",
     "combo": "8,00 €",
-    "dessert": "2,50 €",
-    "mainSet": "komplektā 5,50 €",
-    "combo2": "10,50 €"
+    "dessert": "2,50 €"
   },
   "days": [
     {
@@ -22,14 +20,14 @@
       "name": "Otrdiena",
       "date": "",
       "soup": "Spinātu-zaļo pākšu krēmzupa ar mango dressingu",
-      "main": "Kraukšķīgā vista saldskābā mērcē ar rīsiem un olu, un kāpostu salātiem",
+      "main": "Cūkgaļas sautējums ar dārzeņiem",
       "dessert": ""
     },
     {
       "name": "Trešdiena",
       "date": "",
       "soup": "Karstie kartupeļu salāti",
-      "main": "Cūkgaļas sautējums ar dārzeņiem",
+      "main": "Kraukšķīgā vista saldskābā mērcē ar rīsiem un olu, un kāpostu salātiem",
       "dessert": ""
     },
     {
@@ -43,7 +41,7 @@
   "friday": {
     "name": "Piektdiena",
     "date": "",
-    "tag": "Piektdienas piedāvājums",
+    "tag": "",
     "heading": "Cūkgaļas gulašs ar vārītiem kartupeļiem un burkānu salātiem",
     "text": "Zupā: Soļanka.",
     "phone": ""
