@@ -6,48 +6,51 @@
     "soupSet": "komplektā 2,50 €",
     "main": "5,70 €",
     "combo": "8,00 €",
-    "dessert": "2,50 €"
+    "dessert": "2,50 €",
+    "mainSet": "komplektā 5,50 €",
+    "combo2": "10,50 €"
   },
   "days": [
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Biešu zupa ar ķiploku grauzdiņu",
-      "main": "Ratatouille (dārzeņu sacepums) ar cūkgaļas pavēderi",
+      "soup": "Gulašzupa",
+      "main": "Vistas filejas karbonāde ar ceptiem kartupeļiem, saldkrējuma mērci un svaigiem salātiem",
       "dessert": ""
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Spinātu-zaļo pākšu krēmzupa ar mango dressingu",
-      "main": "Cūkgaļas sautējums ar dārzeņiem",
+      "soup": "Vistas buljonzupa",
+      "main": "Gnocchi ar teļa vaigu ragū un marinētu gurķi",
       "dessert": ""
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Karstie kartupeļu salāti",
-      "main": "Kraukšķīgā vista saldskābā mērcē ar rīsiem un olu, un kāpostu salātiem",
+      "soup": "Svaigu kāpostu zupa",
+      "main": "Vistas strēmelītes sweet chilli mērcē ar dārzeņu rīsiem un burkānu salātiem",
       "dessert": ""
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Frikadeļu zupa",
-      "main": "Kūpināta bekona mērce ar griķiem un marinētu gurķi vai pašmāju frī ar čedaras mērci un bekonu",
+      "soup": "Boršcs ar ķiploku grauzdiņu",
+      "main": "Slinkie cūkgaļas tīteņi ar tomātu-skābā krējuma mērci un gurķu-tomātu salātiem",
       "dessert": ""
     }
   ],
   "friday": {
     "name": "Piektdiena",
     "date": "",
-    "tag": "",
-    "heading": "Cūkgaļas gulašs ar vārītiem kartupeļiem un burkānu salātiem",
-    "text": "Zupā: Soļanka.",
+    "tag": "Piektdienas piedāvājums",
+    "heading": "Cūkgaļas karbonāde ar griķiem, šampinjonu mērci un svaigo kāpostu salātiem",
+    "text": "Zupā: Šķelto zirņu zupa.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Gulašzupa",
       "Karstie kartupeļu salāti",
       "Spinātu-zaļo pākšu krēmzupa ar mango dressingu",
       "Biešu zupa ar ķiploku grauzdiņu",
@@ -110,6 +113,10 @@
       "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
+      "Slinkie cūkgaļas tīteņi ar tomātu-skābā krējuma mērci un gurķu-tomātu salātiem",
+      "Vistas strēmelītes sweet chilli mērcē ar dārzeņu rīsiem un burkānu salātiem",
+      "Gnocchi ar teļa vaigu ragū un marinētu gurķi",
+      "Vistas filejas karbonāde ar ceptiem kartupeļiem, saldkrējuma mērci un svaigiem salātiem",
       "Kūpināta bekona mērce ar griķiem un marinētu gurķi vai pašmāju frī ar čedaras mērci un bekonu",
       "Cūkgaļas sautējums ar dārzeņiem",
       "Kraukšķīgā vista saldskābā mērcē ar rīsiem un olu, un kāpostu salātiem",
@@ -185,11 +192,7 @@
       "Cūkgaļas sautējums",
       "Vistas frikasē ar dārzeņiem",
       "Vistas gaļas stroganovs ar kartupeļu biezeni",
-      "Chilli con carne ar rīsiem",
-      "Cūkgaļas kotletes ar griķiem un sezonas beku mērci",
-      "Vista saldkrējuma mērcē ar rīsiem un dārzeņiem",
-      "Cūkgaļas cepetis ar bulguru un garšaugu sviestā ceptiem dārzeņiem",
-      "Vistas karbonāde ar kartupeļiem zemnieku gaumē"
+      "Chilli con carne ar rīsiem"
     ],
     "desserts": [
       "Kanēļa smalkmaizītes",
