@@ -14,29 +14,29 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Skābeņu zupa ar olu",
-      "main": "Gaļas bumbas tomātu mērcē ar rīsiem",
+      "soup": "Vistas-dārzeņu krēmzupa ar ķirbju sēklām un grauzdiņiem",
+      "main": "Vistas filejas gabaliņi sojas-ķiploku mērcē ar dārzeņu rīsiem",
       "dessert": ""
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Zaļais boršcs ar ķiploku grauzdiņu",
-      "main": "Cūkgaļas sautējums ar sezonas dārzeņiem un ķiploku mērci",
+      "soup": "Buljonzupa ar tortellini un dārzeņiem",
+      "main": "Vistas kotletes ar griķiem, sīpolu mērci un ķīnas kāpostu salātiem",
       "dessert": ""
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Turku zirņu zupa",
-      "main": "Vistas karbonāde ar vārītiem kartupeļiem un saldkrējuma mērci",
+      "soup": "Šķelto zirņu zupa ar cūkgaļas pavēderi",
+      "main": "Cūkgaļas maltās gaļas mērce ar griķiem un marinētu gurķi",
       "dessert": ""
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Vistas buljona zupa ar dārzeņiem",
-      "main": "Pasta penne ar bekona-sīpolu mērci",
+      "soup": "Veģetārā Tom yum zupa ar sēnēm",
+      "main": "Vistas filejas wok ar dārzeņiem teriyaki mērcē",
       "dessert": ""
     }
   ],
@@ -44,12 +44,16 @@
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Vistas giross BBQ mērcē ar pašmāju frī",
-    "text": "Zupā: Frikadeļu zupa.",
+    "heading": "Cūkgaļas franču karbonāde ar bulguru un sezonas salātiem",
+    "text": "Zupā: Ķirbja krēmzupa.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Veģetārā Tom yum zupa ar sēnēm",
+      "Šķelto zirņu zupa ar cūkgaļas pavēderi",
+      "Buljonzupa ar tortellini un dārzeņiem",
+      "Vistas-dārzeņu krēmzupa ar ķirbju sēklām un grauzdiņiem",
       "Zaļais boršcs ar ķiploku grauzdiņu",
       "Gulašzupa",
       "Karstie kartupeļu salāti",
@@ -114,6 +118,10 @@
       "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
+      "Vistas filejas wok ar dārzeņiem teriyaki mērcē",
+      "Cūkgaļas maltās gaļas mērce ar griķiem un marinētu gurķi",
+      "Vistas kotletes ar griķiem, sīpolu mērci un ķīnas kāpostu salātiem",
+      "Vistas filejas gabaliņi sojas-ķiploku mērcē ar dārzeņu rīsiem",
       "Cūkgaļas sautējums ar sezonas dārzeņiem un ķiploku mērci",
       "Slinkie cūkgaļas tīteņi ar tomātu-skābā krējuma mērci un gurķu-tomātu salātiem",
       "Vistas strēmelītes sweet chilli mērcē ar dārzeņu rīsiem un burkānu salātiem",
@@ -189,11 +197,7 @@
       "Plovs",
       "Vistas gaļas gabaliņi sojas-medus glazūrā ar rīsiem un dārzeņiem",
       "Vistas šķiņķis BBQ marinādē un pašmāju kartupeļu frī",
-      "Cūkgaļas cepetis ar ābolu-sinepju mērci un bulguru",
-      "Cūkgaļas kotletes ar vārītiem kartupeļiem",
-      "Cūkgaļas sautējums",
-      "Vistas frikasē ar dārzeņiem",
-      "Vistas gaļas stroganovs ar kartupeļu biezeni"
+      "Cūkgaļas cepetis ar ābolu-sinepju mērci un bulguru"
     ],
     "desserts": [
       "Kanēļa smalkmaizītes",
