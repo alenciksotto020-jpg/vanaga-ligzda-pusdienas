@@ -14,29 +14,29 @@
     {
       "name": "Pirmdiena",
       "date": "",
-      "soup": "Vistas-dārzeņu krēmzupa ar ķirbju sēklām un grauzdiņiem",
-      "main": "Vistas filejas gabaliņi sojas-ķiploku mērcē ar dārzeņu rīsiem",
+      "soup": "Dārzeņu krēmzupa ar pesto un cieto sieru",
+      "main": "Maltās gaļas sacepums ar burkānu-majonēzes salātiem",
       "dessert": ""
     },
     {
       "name": "Otrdiena",
       "date": "",
-      "soup": "Buljonzupa ar tortellini un dārzeņiem",
-      "main": "Vistas kotletes ar griķiem, sīpolu mērci un ķīnas kāpostu salātiem",
+      "soup": "Skābu kāpostu zupa",
+      "main": "Plovs ar vistas gaļu",
       "dessert": ""
     },
     {
       "name": "Trešdiena",
       "date": "",
-      "soup": "Šķelto zirņu zupa ar cūkgaļas pavēderi",
-      "main": "Cūkgaļas maltās gaļas mērce ar griķiem un marinētu gurķi",
+      "soup": "",
+      "main": "",
       "dessert": ""
     },
     {
       "name": "Ceturtdiena",
       "date": "",
-      "soup": "Veģetārā Tom yum zupa ar sēnēm",
-      "main": "Vistas filejas wok ar dārzeņiem teriyaki mērcē",
+      "soup": "Frikadeļu zupa",
+      "main": "Vistas frikasē ar krāsnī ceptiem kartupeļiem un kāpostu-burkānu salātiem",
       "dessert": ""
     }
   ],
@@ -44,12 +44,13 @@
     "name": "Piektdiena",
     "date": "",
     "tag": "Piektdienas piedāvājums",
-    "heading": "Cūkgaļas franču karbonāde ar bulguru un sezonas salātiem",
-    "text": "Zupā: Ķirbja krēmzupa.",
+    "heading": "Cūkgaļas gulašs ar vārītiem kartupeļiem un gurķu salātiem",
+    "text": "Zupā: Vistas rīsu zupa.",
     "phone": ""
   },
   "library": {
     "soups": [
+      "Dārzeņu krēmzupa ar pesto un cieto sieru",
       "Veģetārā Tom yum zupa ar sēnēm",
       "Šķelto zirņu zupa ar cūkgaļas pavēderi",
       "Buljonzupa ar tortellini un dārzeņiem",
@@ -118,6 +119,9 @@
       "Burkānu-kartupeļu krēmzupa ar puravu un grauzdiņiem"
     ],
     "mains": [
+      "Vistas frikasē ar krāsnī ceptiem kartupeļiem un kāpostu-burkānu salātiem",
+      "Plovs ar vistas gaļu",
+      "Maltās gaļas sacepums ar burkānu-majonēzes salātiem",
       "Vistas filejas wok ar dārzeņiem teriyaki mērcē",
       "Cūkgaļas maltās gaļas mērce ar griķiem un marinētu gurķi",
       "Vistas kotletes ar griķiem, sīpolu mērci un ķīnas kāpostu salātiem",
@@ -194,10 +198,7 @@
       "Vistas šķiņķis ar ceptiem kartupeļiem zemnieku gaumē",
       "Maltās gaļas sacepums",
       "Vista karija mērcē ar rīsiem",
-      "Plovs",
-      "Vistas gaļas gabaliņi sojas-medus glazūrā ar rīsiem un dārzeņiem",
-      "Vistas šķiņķis BBQ marinādē un pašmāju kartupeļu frī",
-      "Cūkgaļas cepetis ar ābolu-sinepju mērci un bulguru"
+      "Plovs"
     ],
     "desserts": [
       "Kanēļa smalkmaizītes",
